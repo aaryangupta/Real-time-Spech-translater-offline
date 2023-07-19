@@ -1,1 +1,1 @@
-# Real-time-Spech-translater-offline
+# voice-translater-offline
